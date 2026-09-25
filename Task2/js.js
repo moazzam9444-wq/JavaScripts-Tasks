@@ -74,7 +74,8 @@ function reverse(arr){
 }
  reverse([5,9,4,7,2,6])
 
-                          //Task Even Or Odd
+                         
+ //Task Even Or Odd
  for(i=0;i<=15;i++){
     if(i%2===0){
         console.log(`${i} Is Even`)
