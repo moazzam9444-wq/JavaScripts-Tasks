@@ -1,0 +1,11 @@
+.cont{
+    margin: 0 auto;
+    background-color: rgba(36, 31, 31, 0.873);
+    width: 750px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgba(252, 244, 244, 0.611);
+}
