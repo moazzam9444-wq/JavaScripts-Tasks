@@ -49,3 +49,6 @@ let savedUser = sessionStorage.getItem("userName")
 if(savedUser){
     printuser.innerHTML = `Saved User Name Is: ${savedUser}`
 }
+function greet (){
+    return console.log("Hello World")
+}
