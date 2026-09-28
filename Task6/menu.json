@@ -1,0 +1,29 @@
+
+[
+
+   {
+    "mealName":"Zinger",
+    "Price":5.5,
+    "Availability": true
+    }
+    ,
+    {
+    "mealame":"Shawarma",
+    "Price":5.5,
+    "Availability": true
+    }
+    ,
+    {
+    "mealName":"Burger",
+    "Price":5.5,
+    "Availability": true
+    }
+    ,
+    {
+    "mealName":"Pizza",
+    "Price":5.5,
+    "Availability": true
+    }
+    
+
+]
